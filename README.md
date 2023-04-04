@@ -13,7 +13,7 @@ GraphQL API using Python falcon web framework and graphene.
 
 Prerequisites : Python 3.x, MongoDB (latest version)
 
-Clone the repo, create python virtual enviornment.
+Clone the repo, create python virtual environment.
 
 ```bash
   git clone https://github.com/djr5/graphql_countries.git
@@ -22,7 +22,7 @@ Clone the repo, create python virtual enviornment.
   
   python -m venv venv
 ```
-After sucessful virtual enviornment creation, make sure to activate newly created venv. install all packages from requirements.txt file
+After sucessful virtual environment creation, make sure to activate newly created venv. install all packages from requirements.txt file
 
 in Windows:
 ```bash
