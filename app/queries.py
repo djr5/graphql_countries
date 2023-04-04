@@ -1,8 +1,8 @@
 import graphene
 from bson import ObjectId
-from .graphene_types import CountryType, NearestCountryType
-from .managers import MongoDBConnection
-from .utils import get_nearest_countries, get_countries_by_language
+from graphene_types import CountryType, NearestCountryType
+from managers import MongoDBConnection
+from utils import get_nearest_countries, get_countries_by_language
 
 
 # It defines the Query object that contains the fields that can be queried.

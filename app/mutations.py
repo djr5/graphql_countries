@@ -1,9 +1,9 @@
 import graphene
 from bson import ObjectId
 from mongoengine import connect, disconnect
-from .schemas import Country
-from .graphene_types import CountryOutputType
-from .utils import DB_CONNECTION_STRING
+from schemas import Country
+from graphene_types import CountryOutputType
+from utils import DB_CONNECTION_STRING
 
 # This is a GraphQL mutation class that updates a country document in a MongoDB database with the provided key-value
 # pairs.
