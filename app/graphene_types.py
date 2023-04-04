@@ -1,10 +1,12 @@
 import graphene
 
 
+# The above code defines a custom scalar for dictionaries in Python using the graphene library.
 class CustomDictionary(graphene.Scalar):
     # Define custom scalar for dictionaries
     pass
 
+# This is a GraphQL object type representing a country with various fields and corresponding resolver functions.
 
 class CountryType(graphene.ObjectType):
     id = graphene.String()
@@ -62,6 +64,8 @@ class CountryType(graphene.ObjectType):
         return self.continents
 
 
+# The NearestCountryType class extends the CountryType class and adds a distance attribute that can be resolved to return
+# the distance value.
 class NearestCountryType(CountryType):
     distance = graphene.Float()
 
@@ -69,6 +73,7 @@ class NearestCountryType(CountryType):
         return self.distance
 
 
+# This is a GraphQL object type representing various properties of a country.
 class CountryOutputType(graphene.ObjectType):
     id = graphene.ID()
     name = CustomDictionary()

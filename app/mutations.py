@@ -1,11 +1,12 @@
 import graphene
 from bson import ObjectId
 from mongoengine import connect, disconnect
-from schemas import Country
-from graphene_types import CountryOutputType
-from utils import DB_CONNECTION_STRING
+from .schemas import Country
+from .graphene_types import CountryOutputType
+from .utils import DB_CONNECTION_STRING
 
-# It defines the Mutation object that contains the fields to be updated
+# This is a GraphQL mutation class that updates a country document in a MongoDB database with the provided key-value
+# pairs.
 class EditCountry(graphene.Mutation):
     class Arguments:
         id = graphene.ID(required=True)
@@ -26,6 +27,10 @@ class EditCountry(graphene.Mutation):
     country = graphene.Field(CountryOutputType)
 
     def mutate(self, info, **kwargs):
+        """
+        This function updates a country document in a MongoDB database with the provided key-value pairs.
+        :return: an instance of the `EditCountry` class with the updated `country` object as its argument.
+        """
         connect(host=DB_CONNECTION_STRING)
         document_id = ObjectId(kwargs.get('id'))
         country = Country.objects.get(id=document_id)
@@ -36,7 +41,6 @@ class EditCountry(graphene.Mutation):
         disconnect()
         return EditCountry(country=country)
 
-
-# It defines the Mutation object that contains the fields that can be updated.
+# The Mutation class defines a GraphQL mutation for editing a country.
 class Mutation(graphene.ObjectType):
     countryEditMutation = EditCountry.Field()
