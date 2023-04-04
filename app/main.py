@@ -1,3 +1,4 @@
+import os
 import falcon
 from falcon_cors import CORS
 import graphene
@@ -6,11 +7,16 @@ import json
 from queries import Query
 from mutations import Mutation
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 cors = CORS(
     allow_all_origins=True,
     allow_all_headers=True,
     allow_all_methods=True
 )
+INDEX_HTML_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'static/html/index.html'))
 
 app = falcon.App(middleware=[cors.middleware])
 
@@ -19,9 +25,9 @@ schema = graphene.Schema(query=Query, mutation=Mutation)
 
 #Class for rendering the home page
 class HomePageResource:
-    
+
     def on_get(self, req, resp):
-        with open('graphql_countries\static\html\index.html', 'r') as f:
+        with open(INDEX_HTML_PATH, 'r') as f:
             html = f.read()
         resp.content_type = 'text/html'
         resp.text = html
@@ -55,6 +61,8 @@ app.add_route("/graphql", GraphQLResource())
 
 if __name__ == "__main__":
     from wsgiref import simple_server
-    httpd = simple_server.make_server("localhost", 8000, app)
-    print("Development server running at http://127.0.0.1:8000/")
+    HOST = os.getenv('HOST', 'localhost')
+    PORT = os.getenv('PORT', 8000)
+    httpd = simple_server.make_server(HOST, PORT, app)
+    print("Development server running at http://{0}:{1}/".format(HOST, PORT))
     httpd.serve_forever()

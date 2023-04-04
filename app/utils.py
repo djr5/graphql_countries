@@ -1,9 +1,12 @@
-import requests, math
+import requests, math, os
 from mongoengine import connect, disconnect
 from mongoengine.errors import ValidationError
 from schemas import Country
+from dotenv import load_dotenv
 
-DB_CONNECTION_STRING = "mongodb://127.0.0.1:27017/countries_db"
+load_dotenv()
+
+DB_CONNECTION_STRING = os.getenv('DB_CONNECTION_STRING', 'mongodb://127.0.0.1:27017/countries_db')
 
 def fetch_countries():
     """
