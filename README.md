@@ -65,14 +65,14 @@ Then in terminal you will be able see like this:
 Development server running at http://127.0.0.1:8000/
 ## API Reference
 
-#### Get all items
+#### Get Home Page
 
 ```http
   GET /
 ```
 Endpoint for Home page.
 
-#### Get item
+#### Get Graphql Endpoint
 
 ```http
   POST /graphql
