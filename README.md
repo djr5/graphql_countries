@@ -80,3 +80,10 @@ Endpoint for Home page.
 Endpoint to handle graphql service.
 
 
+## Appendix
+
+Home page logo and favicon is been used from https://falcon.readthedocs.io/
+
+![Logo](https://falcon.readthedocs.io/en/stable/_static/img/logo.svg)
+
+![favicon](https://falcon.readthedocs.io/en/stable/_static/favicon.ico)
