@@ -1,0 +1,26 @@
+{
+    "countryEditMutation": {
+        "country": {
+            "id": "642a00161963da1816baab9b",
+            "independent": true,
+            "status": true,
+            "unMember": false,
+            "languages": [
+                "Arabic",
+                "English",
+                "Mexican"
+            ],
+            "population": 2854268,
+            "name": {
+                "common": "Barbados",
+                "official": "Barbados",
+                "nativeName": {
+                    "eng": {
+                        "official": "Barbados",
+                        "common": "Barbados"
+                    }
+                }
+            }
+        }
+    }
+}

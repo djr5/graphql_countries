@@ -1,0 +1,44 @@
+{
+    "countriesNearbyQuery": [
+        {
+            "id": "642a00171963da1816baabd8",
+            "name": "Fiji"
+        },
+        {
+            "id": "642a00171963da1816baabef",
+            "name": "Japan"
+        },
+        {
+            "id": "642a00161963da1816baaba6",
+            "name": "French Polynesia"
+        },
+        {
+            "id": "642a00171963da1816baabc2",
+            "name": "Marshall Islands"
+        },
+        {
+            "id": "642a00171963da1816baabbd",
+            "name": "North Korea"
+        },
+        {
+            "id": "642a00171963da1816baac54",
+            "name": "Northern Mariana Islands"
+        },
+        {
+            "id": "642a00171963da1816baac62",
+            "name": "South Korea"
+        },
+        {
+            "id": "642a00171963da1816baabcd",
+            "name": "Micronesia"
+        },
+        {
+            "id": "642a00171963da1816baac8a",
+            "name": "Guam"
+        },
+        {
+            "id": "642a00171963da1816baabc6",
+            "name": "Kiribati"
+        }
+    ]
+}

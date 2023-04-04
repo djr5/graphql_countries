@@ -1,0 +1,736 @@
+{
+    "countriesByLanguageQuery": [
+        {
+            "id": "642a00161963da1816baab9b",
+            "name": "Barbados",
+            "languages": [
+                "Arabic",
+                "English"
+            ]
+        },
+        {
+            "id": "642a00161963da1816baab9e",
+            "name": "Namibia",
+            "languages": [
+                "Afrikaans",
+                "German",
+                "English",
+                "Herero",
+                "Khoekhoe",
+                "Kwangali",
+                "Lozi",
+                "Ndonga",
+                "Tswana"
+            ]
+        },
+        {
+            "id": "642a00161963da1816baaba0",
+            "name": "Vanuatu",
+            "languages": [
+                "Bislama",
+                "English",
+                "French"
+            ]
+        },
+        {
+            "id": "642a00161963da1816baaba1",
+            "name": "Samoa",
+            "languages": [
+                "English",
+                "Samoan"
+            ]
+        },
+        {
+            "id": "642a00161963da1816baaba7",
+            "name": "Saint Lucia",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00161963da1816baabaf",
+            "name": "Bahamas",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00161963da1816baabb3",
+            "name": "Cook Islands",
+            "languages": [
+                "English",
+                "Cook Islands Māori"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabb8",
+            "name": "Hong Kong",
+            "languages": [
+                "English",
+                "Chinese"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabb9",
+            "name": "Australia",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabba",
+            "name": "Malaysia",
+            "languages": [
+                "English",
+                "Malay"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabc0",
+            "name": "Zambia",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabc1",
+            "name": "Dominica",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabc2",
+            "name": "Marshall Islands",
+            "languages": [
+                "English",
+                "Marshallese"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabc3",
+            "name": "Tonga",
+            "languages": [
+                "English",
+                "Tongan"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabc6",
+            "name": "Kiribati",
+            "languages": [
+                "English",
+                "Gilbertese"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabca",
+            "name": "Pakistan",
+            "languages": [
+                "English",
+                "Urdu"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabcc",
+            "name": "Turks and Caicos Islands",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabcd",
+            "name": "Micronesia",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabd0",
+            "name": "Caribbean Netherlands",
+            "languages": [
+                "English",
+                "Dutch",
+                "Papiamento"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabd5",
+            "name": "Seychelles",
+            "languages": [
+                "Seychellois Creole",
+                "English",
+                "French"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabd6",
+            "name": "United Kingdom",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabd7",
+            "name": "United States Virgin Islands",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabd8",
+            "name": "Fiji",
+            "languages": [
+                "English",
+                "Fijian",
+                "Fiji Hindi"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabda",
+            "name": "British Virgin Islands",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabdd",
+            "name": "Curaçao",
+            "languages": [
+                "English",
+                "Dutch",
+                "Papiamento"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabe0",
+            "name": "South Africa",
+            "languages": [
+                "Afrikaans",
+                "English",
+                "Southern Ndebele",
+                "Northern Sotho",
+                "Southern Sotho",
+                "Swazi",
+                "Tswana",
+                "Tsonga",
+                "Venda",
+                "Xhosa",
+                "Zulu"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabe2",
+            "name": "Zimbabwe",
+            "languages": [
+                "Chibarwe",
+                "English",
+                "Kalanga",
+                "Khoisan",
+                "Ndau",
+                "Northern Ndebele",
+                "Chewa",
+                "Shona",
+                "Sotho",
+                "Tonga",
+                "Tswana",
+                "Tsonga",
+                "Venda",
+                "Xhosa",
+                "Zimbabwean Sign Language"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabe3",
+            "name": "Guernsey",
+            "languages": [
+                "English",
+                "French",
+                "Guernésiais"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabe8",
+            "name": "Montserrat",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabec",
+            "name": "Eritrea",
+            "languages": [
+                "Arabic",
+                "English",
+                "Tigrinya"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabee",
+            "name": "Isle of Man",
+            "languages": [
+                "English",
+                "Manx"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabf3",
+            "name": "Malawi",
+            "languages": [
+                "English",
+                "Chewa"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabf8",
+            "name": "Eswatini",
+            "languages": [
+                "English",
+                "Swazi"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabfc",
+            "name": "Anguilla",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baabfe",
+            "name": "American Samoa",
+            "languages": [
+                "English",
+                "Samoan"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac01",
+            "name": "Nigeria",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac05",
+            "name": "Botswana",
+            "languages": [
+                "English",
+                "Tswana"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac07",
+            "name": "Guyana",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac08",
+            "name": "Ireland",
+            "languages": [
+                "English",
+                "Irish"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac0b",
+            "name": "Mauritius",
+            "languages": [
+                "English",
+                "French",
+                "Mauritian Creole"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac0c",
+            "name": "Gibraltar",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac0d",
+            "name": "Saint Kitts and Nevis",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac11",
+            "name": "United States Minor Outlying Islands",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac16",
+            "name": "Sudan",
+            "languages": [
+                "Arabic",
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac1a",
+            "name": "Canada",
+            "languages": [
+                "English",
+                "French"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac1c",
+            "name": "Lesotho",
+            "languages": [
+                "English",
+                "Sotho"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac1d",
+            "name": "Bermuda",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac20",
+            "name": "Cayman Islands",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac22",
+            "name": "Gambia",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac24",
+            "name": "Pitcairn Islands",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac25",
+            "name": "Tuvalu",
+            "languages": [
+                "English",
+                "Tuvaluan"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac2a",
+            "name": "Grenada",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac2b",
+            "name": "Papua New Guinea",
+            "languages": [
+                "English",
+                "Hiri Motu",
+                "Tok Pisin"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac2c",
+            "name": "Jamaica",
+            "languages": [
+                "English",
+                "Jamaican Patois"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac35",
+            "name": "Uganda",
+            "languages": [
+                "English",
+                "Swahili"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac3a",
+            "name": "Kenya",
+            "languages": [
+                "English",
+                "Swahili"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac43",
+            "name": "British Indian Ocean Territory",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac44",
+            "name": "India",
+            "languages": [
+                "English",
+                "Hindi",
+                "Tamil"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac4c",
+            "name": "New Zealand",
+            "languages": [
+                "English",
+                "Māori",
+                "New Zealand Sign Language"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac4d",
+            "name": "Singapore",
+            "languages": [
+                "Chinese",
+                "English",
+                "Malay",
+                "Tamil"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac4f",
+            "name": "Belize",
+            "languages": [
+                "Belizean Creole",
+                "English",
+                "Spanish"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac50",
+            "name": "Falkland Islands",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac53",
+            "name": "Cocos (Keeling) Islands",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac54",
+            "name": "Northern Mariana Islands",
+            "languages": [
+                "Carolinian",
+                "Chamorro",
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac55",
+            "name": "Cameroon",
+            "languages": [
+                "English",
+                "French"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac57",
+            "name": "United States",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac5b",
+            "name": "Rwanda",
+            "languages": [
+                "English",
+                "French",
+                "Kinyarwanda"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac5c",
+            "name": "Trinidad and Tobago",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac5d",
+            "name": "Malta",
+            "languages": [
+                "English",
+                "Maltese"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac60",
+            "name": "Antigua and Barbuda",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac61",
+            "name": "Tokelau",
+            "languages": [
+                "English",
+                "Samoan",
+                "Tokelauan"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac66",
+            "name": "Liberia",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac68",
+            "name": "Tanzania",
+            "languages": [
+                "English",
+                "Swahili"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac6a",
+            "name": "South Georgia",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac6b",
+            "name": "Saint Vincent and the Grenadines",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac6d",
+            "name": "Sierra Leone",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac6e",
+            "name": "Sint Maarten",
+            "languages": [
+                "English",
+                "French",
+                "Dutch"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac70",
+            "name": "Ghana",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac71",
+            "name": "South Sudan",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac75",
+            "name": "Philippines",
+            "languages": [
+                "English",
+                "Filipino"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac78",
+            "name": "Palau",
+            "languages": [
+                "English",
+                "Palauan"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac7a",
+            "name": "Nauru",
+            "languages": [
+                "English",
+                "Nauru"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac7c",
+            "name": "Jersey",
+            "languages": [
+                "English",
+                "French",
+                "Jèrriais"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac81",
+            "name": "Niue",
+            "languages": [
+                "English",
+                "Niuean"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac83",
+            "name": "Saint Helena, Ascension and Tristan da Cunha",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac84",
+            "name": "Norfolk Island",
+            "languages": [
+                "English",
+                "Norfuk"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac8a",
+            "name": "Guam",
+            "languages": [
+                "Chamorro",
+                "English",
+                "Spanish"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac8c",
+            "name": "Solomon Islands",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac8e",
+            "name": "Christmas Island",
+            "languages": [
+                "English"
+            ]
+        },
+        {
+            "id": "642a00171963da1816baac8f",
+            "name": "Puerto Rico",
+            "languages": [
+                "English",
+                "Spanish"
+            ]
+        }
+    ]
+}

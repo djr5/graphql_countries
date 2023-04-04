@@ -1,0 +1,48 @@
+{
+    "countriesQuery": [
+        {
+            "name": "Barbados",
+            "id": "642a00161963da1816baab9b",
+            "languages": [
+                "Arabic",
+                "English"
+            ]
+        },
+        {
+            "name": "Réunion",
+            "id": "642a00161963da1816baab9c",
+            "languages": [
+                "French"
+            ]
+        },
+        {
+            "name": "Suriname",
+            "id": "642a00161963da1816baab9d",
+            "languages": [
+                "Dutch"
+            ]
+        },
+        {
+            "name": "Namibia",
+            "id": "642a00161963da1816baab9e",
+            "languages": [
+                "Afrikaans",
+                "German",
+                "English",
+                "Herero",
+                "Khoekhoe",
+                "Kwangali",
+                "Lozi",
+                "Ndonga",
+                "Tswana"
+            ]
+        },
+        {
+            "name": "Guinea",
+            "id": "642a00161963da1816baab9f",
+            "languages": [
+                "French"
+            ]
+        }
+    ]
+}
