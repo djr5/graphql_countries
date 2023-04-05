@@ -1,8 +1,13 @@
 import requests, math, os
 from mongoengine import connect, disconnect
 from mongoengine.errors import ValidationError
-from .schemas import Country
 from dotenv import load_dotenv
+
+try:
+    from schemas import Country
+except ModuleNotFoundError:
+    from .schemas import Country
+
 
 load_dotenv()
 
